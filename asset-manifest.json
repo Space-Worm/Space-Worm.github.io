@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87354368.css",
+    "main.js": "/static/js/main.a8cfc936.js",
+    "static/media/featurepic.png": "/static/media/featurepic.fd7541f9d79b2a8bb870.png",
+    "static/media/logo6.png": "/static/media/logo6.e140e26447de21b6549e.png",
+    "static/media/Kenney_Future_Narrow.ttf": "/static/media/Kenney_Future_Narrow.2aa39d70951453c74a55.ttf",
+    "index.html": "/index.html",
+    "main.87354368.css.map": "/static/css/main.87354368.css.map",
+    "main.a8cfc936.js.map": "/static/js/main.a8cfc936.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87354368.css",
+    "static/js/main.a8cfc936.js"
+  ]
+}
