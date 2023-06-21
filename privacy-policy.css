@@ -1,4 +1,9 @@
-.navbar {
+@font-face {
+    font-family: "Future";
+    src: url("fonts/Kenney_Future_Narrow.ttf");
+}
+
+/* .navbar {
     width: 100%;
     background-color: #555;
     overflow: auto;
@@ -22,7 +27,7 @@
   
 .active {
     background-color: #80BE1F;
-}
+} */
   
 @media screen and (max-width: 500px) {
     .navbar a {
@@ -46,6 +51,9 @@
 	margin: 0;
 	padding: 0;
 	scroll-behavior: smooth;
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-family: 'Future', sans-serif; */
 }
 
 main{
@@ -101,6 +109,10 @@ a.nav-link{
 
 .active{
 	background: var(--main-decor-color);
+}
+
+.nav-link{
+    font-family: 'Future', sans-serif;
 }
 
 .nav-link:hover {
